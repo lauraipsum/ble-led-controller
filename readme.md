@@ -1,3 +1,8 @@
+📘 This README is also available in:
+- [🇧🇷 Portuguese (Brasil)](README.pt-br.md)
+- [🇺🇸 English](README.md)
+
+
 # Bluetooth LED Controller
 
 Python application that allows you to control LED lights over Bluetooth Low Energy (BLE) with a modern and customizable GUI. Built with [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and [bleak](https://github.com/hbldh/bleak), it supports features such as color picking, brightness adjustment, and saving a default color per device.
