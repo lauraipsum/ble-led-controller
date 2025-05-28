@@ -1,7 +1,5 @@
 📘 This README is also available in:
 - [🇧🇷 Portuguese (Brasil)](README.pt-br.md)
-- [🇺🇸 English](README.md)
-
 
 # Bluetooth LED Controller
 
